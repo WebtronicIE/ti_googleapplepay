@@ -1,4 +1,4 @@
-# TastyIgnitor Apple Pay & Google Pay (Stripe)
+# TastyIgniter Apple Pay & Google Pay (Stripe)
 
 This extension allows you to accept Apple or Google Pay via your existing Stripe account.
 
