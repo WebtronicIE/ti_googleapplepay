@@ -2,6 +2,9 @@
 
 This extension allows you to accept Apple or Google Pay via your existing Stripe account.
 
+_Apple Pay only works on Safari for iOS and Safari for Mac OSX
+Google Pay only works on Chrome._
+
 ##Installation / Configuring
 - Install the plugin via FTP / Admin Section
 - Activate it under System > Extensions
