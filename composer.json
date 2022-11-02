@@ -1,5 +1,5 @@
 {
-  "name": "webtronic/applegooglepay",
+  "name": "webtronicie/applegooglepay",
   "type": "tastyigniter-extension",
   "description": "Allows you to accept Apple Pay or Google Pay via Stripe.",
   "keywords": [
@@ -19,7 +19,7 @@
   },
   "extra": {
     "tastyigniter-extension": {
-      "code": "webtronic.applegooglepay",
+      "code": "webtronicie.applegooglepay",
       "name": "Apple and Google Pay",
       "icon": {
         "class": "fa fa-cash-register",
